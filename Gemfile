@@ -4,4 +4,3 @@ gem "activesupport"
 gem "awesome_print"
 gem "pry-byebug"
 
-bundle install
